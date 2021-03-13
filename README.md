@@ -24,3 +24,5 @@
 ![LTUC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEH-W-BZac_nI5131biOive6HNBOFkPv9N1g&usqp=CAU)
 
 for more info [visit](https://canvas.instructure.com/courses/2598230)
+
+&copy; By Sarah Dagamseh
