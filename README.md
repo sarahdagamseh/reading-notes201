@@ -1,6 +1,6 @@
 # reading-notes201
 
-|              Content                                            |           link 
+|              Content                                            |           link                                                                                       |
 | Introductory HTML and JavaScript                                | https://canvas.instructure.com/courses/2598230/discussion_topics/10799082?module_item_id=43055830    |
 | HTML Text, CSS Introduction, and Basic JavaScript Instructions  | https://canvas.instructure.com/courses/2598230/discussion_topics/10799069?module_item_id=43055837    |
 | HTML Lists, CSS Boxes, JS Control Flow                          | https://canvas.instructure.com/courses/2598230/discussion_topics/10799070?module_item_id=43055843    |
