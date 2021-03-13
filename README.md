@@ -20,4 +20,4 @@
 | What Google Learned About Teams                                 | https://canvas.instructure.com/courses/2598230/discussion_topics/10799084?module_item_id=43055907    |
 
 
-![LTUC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEH-W-BZac_nI5131biOive6HNBOFkPv9N1g&usqp=CAU)
+                          ![LTUC](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEH-W-BZac_nI5131biOive6HNBOFkPv9N1g&usqp=CAU)
