@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Headings
 
 ### In this table, you will see codes of HTML:
@@ -95,3 +96,6 @@ I(&&,||)
 
 
   ## For more information vistit [w3schools](https://www.w3schools.com/)
+=======
+
+>>>>>>> f50c7f05f69661d837bb28e4e143831d0e8ac99b
