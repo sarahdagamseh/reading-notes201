@@ -5,7 +5,7 @@
 
 |              Content                                            |           link                                                       |
 |-----------------------------------------------------------------|----------------------------------------------------------------------|
-| Introductory HTML and JavaScript                                | [Read1]https://sarahdagamseh.github.io/reading-notes201/class-01)    |
+| Introductory HTML and JavaScript                                | [Read1](https://sarahdagamseh.github.io/reading-notes201/class-01)   |
 | HTML Text, CSS Introduction, and Basic JavaScript Instructions  | [Read2](https://sarahdagamseh.github.io/reading-notes201/class-02)   |
 | HTML Lists, CSS Boxes, JS Control Flow                          | [Read3]                                                              |
 | HTML Links, CSS Layout, JS Functions                            | [Read4]                                                              |
