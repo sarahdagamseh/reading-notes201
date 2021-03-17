@@ -1,7 +1,4 @@
-<<<<<<< HEAD
-=======
 
->>>>>>> b1871696f1b3f6084dc0c0a5a9aaf689923ee545
 # Creating links between pages
 # Linking to other sites
 # Email links
