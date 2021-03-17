@@ -9,7 +9,7 @@
 | HTML Text, CSS Introduction, and Basic JavaScript Instructions  | [Read2](https://sarahdagamseh.github.io/reading-notes201/class-02)   |
 | HTML Lists, CSS Boxes, JS Control Flow                          | [Read3](https://sarahdagamseh.github.io/reading-notes201/class-03)   |
 | HTML Links, CSS Layout, JS Functions                            | [Read4](https://sarahdagamseh.github.io/reading-notes201/class-04)   |
-| HTML Images; CSS Color & Text                                   | [Read5]                                                              |
+| HTML Images; CSS Color & Text                                   | [Read5](https://sarahdagamseh.github.io/reading-notes201/class-05)   |
 | JS Object Literals; The DOM                                     | [Read6]                                                              |
 | HTML Tables; JS Constructor Functions                           | [Read7]                                                              |
 | More CSS Layout                                                 | [Read8]                                                              |
