@@ -12,7 +12,7 @@
 | HTML Images; CSS Color & Text                                   | [Read5](https://sarahdagamseh.github.io/reading-notes201/class-05)   |
 | JS Object Literals; The DOM                                     | [Read6](https://sarahdagamseh.github.io/reading-notes201/class-06)   |
 | HTML Tables; JS Constructor Functions                           | [Read7](https://sarahdagamseh.github.io/reading-notes201/class-07)   |
-| More CSS Layout                                                 | [Read8](https://sarahdagamseh.github.io/reading-notes201/class-07)   |
+| More CSS Layout                                                 | [Read8](https://sarahdagamseh.github.io/reading-notes201/class-08)   |
 | Forms and Events                                                | [Read9]                                                              |   
 | JS Debugging                                                    | [Read10]                                                             |
 | Assorted Topics                                                 | [Read11]                                                             |
