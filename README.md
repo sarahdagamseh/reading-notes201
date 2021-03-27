@@ -13,7 +13,7 @@
 | JS Object Literals; The DOM                                     | [Read6](https://sarahdagamseh.github.io/reading-notes201/class-06)   |
 | HTML Tables; JS Constructor Functions                           | [Read7](https://sarahdagamseh.github.io/reading-notes201/class-07)   |
 | More CSS Layout                                                 | [Read8](https://sarahdagamseh.github.io/reading-notes201/class-08)   |
-| Forms and Events                                                | [Read9]                                                              |   
+| Forms and Events                                                | [Read9](https://sarahdagamseh.github.io/reading-notes201/class-09)   |   
 | JS Debugging                                                    | [Read10]                                                             |
 | Assorted Topics                                                 | [Read11]                                                             |
 | Docs for the HTML <canvas> Element & Chart.js                   | [Read12]                                                             |
