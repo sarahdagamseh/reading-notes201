@@ -14,7 +14,7 @@
 | HTML Tables; JS Constructor Functions                           | [Read7](https://sarahdagamseh.github.io/reading-notes201/class-07)   |
 | More CSS Layout                                                 | [Read8](https://sarahdagamseh.github.io/reading-notes201/class-08)   |
 | Forms and Events                                                | [Read9](https://sarahdagamseh.github.io/reading-notes201/class-09)   |   
-| JS Debugging                                                    | [Read10]                                                             |
+| JS Debugging                                                    | [Read10](https://sarahdagamseh.github.io/reading-notes201/class-10)  |
 | Assorted Topics                                                 | [Read11]                                                             |
 | Docs for the HTML <canvas> Element & Chart.js                   | [Read12]                                                             |
 | Local Storage                                                   | [Read13]                                                             |
