@@ -15,8 +15,8 @@
 | More CSS Layout                                                 | [Read8](https://sarahdagamseh.github.io/reading-notes201/class-08)   |
 | Forms and Events                                                | [Read9](https://sarahdagamseh.github.io/reading-notes201/class-09)   |   
 | JS Debugging                                                    | [Read10](https://sarahdagamseh.github.io/reading-notes201/class-10)  |
-| Assorted Topics                                                 | [Read11]                                                             |
-| Docs for the HTML <canvas> Element & Chart.js                   | [Read12]                                                             |
+| Assorted Topics                                                 | [Read11](https://sarahdagamseh.github.io/reading-notes201/class-11)  |
+| Docs for the HTML <canvas> Element & Chart.js                   | [Read12](https://sarahdagamseh.github.io/reading-notes201/class-12)  |
 | Local Storage                                                   | [Read13]                                                             |
 | CSS Transforms, Transitions, and Animations                     | [Read14]                                                             |
 | What Google Learned About Teams                                 | [Read14]                                                             |
